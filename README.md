@@ -1,2 +1,1 @@
-# javascript-topics
-Created with CodeSandbox
+# js-intro
